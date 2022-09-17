@@ -1,2 +1,2 @@
-# EmpManage - Employee-Management-System
+# EmpManager - Employee-Management-System
 Performed CRUD operations on the details of employees
